@@ -1,0 +1,11 @@
+{
+  "registeredDides": [
+    {
+      "name": "Example",
+      "email": "example@email.com",
+      "company": "Example",
+      "country": "Country",
+      "id": 1
+    }
+  ]
+}
